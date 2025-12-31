@@ -1,7 +1,6 @@
 # Nicolas Lopes
 
-Senior Software Engineer with 8+ years of experience building backend and cloud systems. Skilled in debugging
-complex issues, optimizing performance, and delivering reliable, customer-focused solutions.
+Senior Software Engineer with 8+ years of experience building backend and cloud systems.
 
 ---
 
